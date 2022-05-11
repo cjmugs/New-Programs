@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import ttk
 
-
 def new_gui():
     root = Tk()
     frm = ttk.Frame(root, padding=10)
